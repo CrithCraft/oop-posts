@@ -1,0 +1,23 @@
+.post {
+  width: 400px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 16px;
+  margin: 10px;
+}
+
+* {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  box-sizing: border-box;
+}
